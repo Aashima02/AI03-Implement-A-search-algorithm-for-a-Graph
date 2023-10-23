@@ -1,4 +1,4 @@
-# EXP03-Implement-Depth-First-Search-Traversal-of-a-Graph
+# EXP03- Implement A* search algorithm for a Graph
 
 #### NAME: Aashima Nazreen Sayeed S
 #### REG NO: 212221240002
